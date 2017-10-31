@@ -9,3 +9,10 @@ I remember near the beginning of building our first robots that a lot of us were
 belive that most of us viewed our robots as male and used masculine pronouns. I found an article about how people view 
 ambiguous robots when assigning genders to them. I thought it was an intersting read so I decided to share the article!
 http://www.slate.com/articles/technology/future_tense/2015/02/robot_gender_is_it_bad_for_human_women.html
+
+
+Final Project Ideas
+
+https://arsandbox.ucdavis.edu/
+
+Building off Brooke's idea with projecting onto sand, I found a proejct that had a similar concept the projected topogrophy onto sand. People can move the sand around to change the map, creating mountains and lakes etc.. While this project includeds AR, we do want to include a similar aspect of touch. 
