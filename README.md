@@ -29,7 +29,12 @@ Building off Brooke's idea with projecting onto sand, I found a proejct that had
 
 
 
+
+
+
 FINAL PROJECT 
+
+
 My group hasn't completed decided on what we want our final project to be since we had to change our idea due to the new constraints. We, ideally, would like to keep our idea of incorporating death, similar to our orginal idea. 
 
 Puppet show of robots?
@@ -88,7 +93,7 @@ Thursday 11/23/17
 Satruday 11/25/17
 - Continue building robots
 
-##Tuesday 11/28/17
+Tuesday 11/28/17
 - Continue building robots
 
 
