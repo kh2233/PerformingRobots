@@ -96,15 +96,15 @@ Satruday 11/25/17
 Tuesday 11/28/17
 - Continue building robots
 
-##Final Project
+Final Project
 
 One robot is a worker robot on the assembly line and another "capitalist" robot is telling the worker robot what to d,o faster and faster until the worker starts to fall apart. The audience will decide if the worker should kill the "capitalist" robot.
 
-#Greatest risk or uncertainty:
+Greatest risk or uncertainty:
 
 Ideally we would like the worker robot to be stamping multiple pieces of paper, like a postcard. To do this we need to figure out how to balance enough weight to create a stamp on the arm, while ensuring that it is not too heavy to be lifted by the motors.
 
-#Detailed parts list:
+Detailed parts list:
 
 Worker Robot
 
